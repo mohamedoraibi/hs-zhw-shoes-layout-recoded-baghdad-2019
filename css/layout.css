@@ -27,12 +27,12 @@
 /* Positioning Classes */
 
 .col-1{
-  width: 33.33%;
+  width: 33%;
   float: left;
   margin: 10px;
 }
 .col-2{
-    width: 66.66%;
+    width: 66%;
   float: left;
     margin: 10px;
 }
