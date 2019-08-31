@@ -8,7 +8,9 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
 }
-
+.wrapper{
+  margin: 0 auto;
+}
 .clearfix:after {
   content: ".";
   display: block;
