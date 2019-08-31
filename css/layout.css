@@ -28,7 +28,8 @@
 
 .col-1{
   width: 32%;
-  float: left
+  float: left;
+  margin: 10px;
 }
 .col-2{
     width: 62%;
