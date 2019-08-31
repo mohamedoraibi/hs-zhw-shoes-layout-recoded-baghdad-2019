@@ -8,7 +8,9 @@
   -webkit-box-sizing: border-box;
   -moz-box-sizing: border-box;
 }
-
+.wrapper{
+  margin: 0 auto;
+}
 .clearfix:after {
   content: ".";
   display: block;
@@ -24,4 +26,16 @@
 
 /* Positioning Classes */
 
-
+.col-1{
+  width: 32%;
+  float: left;
+margin: 5px;
+}
+.col-2{
+    width: 65%;
+  float: left;
+margin: 5px;
+}
+.col-3{
+  width: 100%;
+}
